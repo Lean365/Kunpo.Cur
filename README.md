@@ -130,4 +130,4 @@ npm run dev
 5. 创建 Pull Request
 
 ## 许可证
-[MIT License](LICENSE) 
+[MIT License](LICENSE)
