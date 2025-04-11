@@ -1,0 +1,15 @@
+D:\GitHub\Kunpo.Cur\backend\src\Kunpo.Cur.Domain\bin\Debug\net8.0\Kunpo.Cur.Domain.deps.json
+D:\GitHub\Kunpo.Cur\backend\src\Kunpo.Cur.Domain\bin\Debug\net8.0\Kunpo.Cur.Domain.dll
+D:\GitHub\Kunpo.Cur\backend\src\Kunpo.Cur.Domain\bin\Debug\net8.0\Kunpo.Cur.Domain.pdb
+D:\GitHub\Kunpo.Cur\backend\src\Kunpo.Cur.Domain\bin\Debug\net8.0\Kunpo.Cur.Common.dll
+D:\GitHub\Kunpo.Cur\backend\src\Kunpo.Cur.Domain\bin\Debug\net8.0\Kunpo.Cur.Common.pdb
+D:\GitHub\Kunpo.Cur\backend\src\Kunpo.Cur.Domain\obj\Debug\net8.0\Kunpo.Cur.Domain.csproj.AssemblyReference.cache
+D:\GitHub\Kunpo.Cur\backend\src\Kunpo.Cur.Domain\obj\Debug\net8.0\Kunpo.Cur.Domain.GeneratedMSBuildEditorConfig.editorconfig
+D:\GitHub\Kunpo.Cur\backend\src\Kunpo.Cur.Domain\obj\Debug\net8.0\Kunpo.Cur.Domain.AssemblyInfoInputs.cache
+D:\GitHub\Kunpo.Cur\backend\src\Kunpo.Cur.Domain\obj\Debug\net8.0\Kunpo.Cur.Domain.AssemblyInfo.cs
+D:\GitHub\Kunpo.Cur\backend\src\Kunpo.Cur.Domain\obj\Debug\net8.0\Kunpo.Cur.Domain.csproj.CoreCompileInputs.cache
+D:\GitHub\Kunpo.Cur\backend\src\Kunpo.Cur.Domain\obj\Debug\net8.0\Kunpo.Cu.7F2D4D2D.Up2Date
+D:\GitHub\Kunpo.Cur\backend\src\Kunpo.Cur.Domain\obj\Debug\net8.0\Kunpo.Cur.Domain.dll
+D:\GitHub\Kunpo.Cur\backend\src\Kunpo.Cur.Domain\obj\Debug\net8.0\refint\Kunpo.Cur.Domain.dll
+D:\GitHub\Kunpo.Cur\backend\src\Kunpo.Cur.Domain\obj\Debug\net8.0\Kunpo.Cur.Domain.pdb
+D:\GitHub\Kunpo.Cur\backend\src\Kunpo.Cur.Domain\obj\Debug\net8.0\ref\Kunpo.Cur.Domain.dll

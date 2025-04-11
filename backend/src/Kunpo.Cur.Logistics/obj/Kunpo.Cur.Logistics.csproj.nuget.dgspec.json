@@ -1,0 +1,381 @@
+{
+  "format": 1,
+  "restore": {
+    "D:\\GitHub\\Kunpo.Cur\\backend\\src\\Kunpo.Cur.Logistics\\Kunpo.Cur.Logistics.csproj": {}
+  },
+  "projects": {
+    "D:\\GitHub\\Kunpo.Cur\\backend\\src\\Kunpo.Cur.Application\\Kunpo.Cur.Application.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\GitHub\\Kunpo.Cur\\backend\\src\\Kunpo.Cur.Application\\Kunpo.Cur.Application.csproj",
+        "projectName": "Kunpo.Cur.Application",
+        "projectPath": "D:\\GitHub\\Kunpo.Cur\\backend\\src\\Kunpo.Cur.Application\\Kunpo.Cur.Application.csproj",
+        "packagesPath": "C:\\Users\\Davis.Cheng\\.nuget\\packages\\",
+        "outputPath": "D:\\GitHub\\Kunpo.Cur\\backend\\src\\Kunpo.Cur.Application\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Davis.Cheng\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "D:\\GitHub\\Kunpo.Cur\\backend\\src\\Kunpo.Cur.Common\\Kunpo.Cur.Common.csproj": {
+                "projectPath": "D:\\GitHub\\Kunpo.Cur\\backend\\src\\Kunpo.Cur.Common\\Kunpo.Cur.Common.csproj"
+              },
+              "D:\\GitHub\\Kunpo.Cur\\backend\\src\\Kunpo.Cur.Domain\\Kunpo.Cur.Domain.csproj": {
+                "projectPath": "D:\\GitHub\\Kunpo.Cur\\backend\\src\\Kunpo.Cur.Domain\\Kunpo.Cur.Domain.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "AutoMapper": {
+              "target": "Package",
+              "version": "[14.0.0, )"
+            },
+            "FluentValidation": {
+              "target": "Package",
+              "version": "[11.11.0, )"
+            },
+            "FluentValidation.DependencyInjectionExtensions": {
+              "target": "Package",
+              "version": "[11.11.0, )"
+            },
+            "MediatR": {
+              "target": "Package",
+              "version": "[12.5.0, )"
+            },
+            "Newtonsoft.Json": {
+              "target": "Package",
+              "version": "[13.0.3, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.303/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\GitHub\\Kunpo.Cur\\backend\\src\\Kunpo.Cur.Common\\Kunpo.Cur.Common.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\GitHub\\Kunpo.Cur\\backend\\src\\Kunpo.Cur.Common\\Kunpo.Cur.Common.csproj",
+        "projectName": "Kunpo.Cur.Common",
+        "projectPath": "D:\\GitHub\\Kunpo.Cur\\backend\\src\\Kunpo.Cur.Common\\Kunpo.Cur.Common.csproj",
+        "packagesPath": "C:\\Users\\Davis.Cheng\\.nuget\\packages\\",
+        "outputPath": "D:\\GitHub\\Kunpo.Cur\\backend\\src\\Kunpo.Cur.Common\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Davis.Cheng\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "EPPlus": {
+              "target": "Package",
+              "version": "[8.0.1, )"
+            },
+            "IP2Region.Net": {
+              "target": "Package",
+              "version": "[2.0.2, )"
+            },
+            "Microsoft.Extensions.Caching.StackExchangeRedis": {
+              "target": "Package",
+              "version": "[9.0.2, )"
+            },
+            "Newtonsoft.Json": {
+              "target": "Package",
+              "version": "[13.0.3, )"
+            },
+            "Serilog": {
+              "target": "Package",
+              "version": "[4.2.0, )"
+            },
+            "Serilog.Sinks.Console": {
+              "target": "Package",
+              "version": "[6.0.0, )"
+            },
+            "Serilog.Sinks.File": {
+              "target": "Package",
+              "version": "[6.0.0, )"
+            },
+            "SixLabors.ImageSharp": {
+              "target": "Package",
+              "version": "[3.1.7, )"
+            },
+            "SixLabors.ImageSharp.Drawing": {
+              "target": "Package",
+              "version": "[2.1.5, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.303/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\GitHub\\Kunpo.Cur\\backend\\src\\Kunpo.Cur.Domain\\Kunpo.Cur.Domain.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\GitHub\\Kunpo.Cur\\backend\\src\\Kunpo.Cur.Domain\\Kunpo.Cur.Domain.csproj",
+        "projectName": "Kunpo.Cur.Domain",
+        "projectPath": "D:\\GitHub\\Kunpo.Cur\\backend\\src\\Kunpo.Cur.Domain\\Kunpo.Cur.Domain.csproj",
+        "packagesPath": "C:\\Users\\Davis.Cheng\\.nuget\\packages\\",
+        "outputPath": "D:\\GitHub\\Kunpo.Cur\\backend\\src\\Kunpo.Cur.Domain\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Davis.Cheng\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "D:\\GitHub\\Kunpo.Cur\\backend\\src\\Kunpo.Cur.Common\\Kunpo.Cur.Common.csproj": {
+                "projectPath": "D:\\GitHub\\Kunpo.Cur\\backend\\src\\Kunpo.Cur.Common\\Kunpo.Cur.Common.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "FluentValidation": {
+              "target": "Package",
+              "version": "[11.11.0, )"
+            },
+            "Newtonsoft.Json": {
+              "target": "Package",
+              "version": "[13.0.3, )"
+            },
+            "SqlSugarCore": {
+              "target": "Package",
+              "version": "[5.1.4.188, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.303/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\GitHub\\Kunpo.Cur\\backend\\src\\Kunpo.Cur.Logistics\\Kunpo.Cur.Logistics.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\GitHub\\Kunpo.Cur\\backend\\src\\Kunpo.Cur.Logistics\\Kunpo.Cur.Logistics.csproj",
+        "projectName": "Kunpo.Cur.Logistics",
+        "projectPath": "D:\\GitHub\\Kunpo.Cur\\backend\\src\\Kunpo.Cur.Logistics\\Kunpo.Cur.Logistics.csproj",
+        "packagesPath": "C:\\Users\\Davis.Cheng\\.nuget\\packages\\",
+        "outputPath": "D:\\GitHub\\Kunpo.Cur\\backend\\src\\Kunpo.Cur.Logistics\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Davis.Cheng\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "D:\\GitHub\\Kunpo.Cur\\backend\\src\\Kunpo.Cur.Application\\Kunpo.Cur.Application.csproj": {
+                "projectPath": "D:\\GitHub\\Kunpo.Cur\\backend\\src\\Kunpo.Cur.Application\\Kunpo.Cur.Application.csproj"
+              },
+              "D:\\GitHub\\Kunpo.Cur\\backend\\src\\Kunpo.Cur.Common\\Kunpo.Cur.Common.csproj": {
+                "projectPath": "D:\\GitHub\\Kunpo.Cur\\backend\\src\\Kunpo.Cur.Common\\Kunpo.Cur.Common.csproj"
+              },
+              "D:\\GitHub\\Kunpo.Cur\\backend\\src\\Kunpo.Cur.Domain\\Kunpo.Cur.Domain.csproj": {
+                "projectPath": "D:\\GitHub\\Kunpo.Cur\\backend\\src\\Kunpo.Cur.Domain\\Kunpo.Cur.Domain.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "Newtonsoft.Json": {
+              "target": "Package",
+              "version": "[13.0.3, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.303/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

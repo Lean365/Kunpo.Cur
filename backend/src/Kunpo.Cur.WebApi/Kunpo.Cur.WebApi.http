@@ -1,0 +1,6 @@
+@Kunpo.Cur.WebApi_HostAddress = http://localhost:5119
+
+GET {{Kunpo.Cur.WebApi_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

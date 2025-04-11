@@ -1,0 +1,25 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net8.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+    <RootNamespace>Kunpo.Cur.Workflow</RootNamespace>
+    <AssemblyName>Kunpo.Cur.Workflow</AssemblyName>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <FrameworkReference Include="Microsoft.AspNetCore.App" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Newtonsoft.Json" Version="13.0.3" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\Kunpo.Cur.Domain\Kunpo.Cur.Domain.csproj" />
+    <ProjectReference Include="..\Kunpo.Cur.Application\Kunpo.Cur.Application.csproj" />
+    <ProjectReference Include="..\Kunpo.Cur.Common\Kunpo.Cur.Common.csproj" />
+  </ItemGroup>
+
+</Project>

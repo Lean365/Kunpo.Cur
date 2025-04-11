@@ -1,0 +1,89 @@
+{
+  "Files": [
+    {
+      "Id": "D:\\GitHub\\Kunpo.Cur\\backend\\src\\Kunpo.Cur.WebApi\\wwwroot\\data\\ip2region.xdb",
+      "PackagePath": "staticwebassets\\data\\ip2region.xdb"
+    },
+    {
+      "Id": "D:\\GitHub\\Kunpo.Cur\\backend\\src\\Kunpo.Cur.WebApi\\wwwroot\\images\\slider\\background\\background_1.jpg",
+      "PackagePath": "staticwebassets\\images\\slider\\background\\background_1.jpg"
+    },
+    {
+      "Id": "D:\\GitHub\\Kunpo.Cur\\backend\\src\\Kunpo.Cur.WebApi\\wwwroot\\images\\slider\\background\\background_2.jpg",
+      "PackagePath": "staticwebassets\\images\\slider\\background\\background_2.jpg"
+    },
+    {
+      "Id": "D:\\GitHub\\Kunpo.Cur\\backend\\src\\Kunpo.Cur.WebApi\\wwwroot\\images\\slider\\background\\background_3.jpg",
+      "PackagePath": "staticwebassets\\images\\slider\\background\\background_3.jpg"
+    },
+    {
+      "Id": "D:\\GitHub\\Kunpo.Cur\\backend\\src\\Kunpo.Cur.WebApi\\wwwroot\\images\\slider\\background\\background_4.jpg",
+      "PackagePath": "staticwebassets\\images\\slider\\background\\background_4.jpg"
+    },
+    {
+      "Id": "D:\\GitHub\\Kunpo.Cur\\backend\\src\\Kunpo.Cur.WebApi\\wwwroot\\images\\slider\\background\\background_5.jpg",
+      "PackagePath": "staticwebassets\\images\\slider\\background\\background_5.jpg"
+    },
+    {
+      "Id": "D:\\GitHub\\Kunpo.Cur\\backend\\src\\Kunpo.Cur.WebApi\\wwwroot\\images\\slider\\template\\1\\hole.png",
+      "PackagePath": "staticwebassets\\images\\slider\\template\\1\\hole.png"
+    },
+    {
+      "Id": "D:\\GitHub\\Kunpo.Cur\\backend\\src\\Kunpo.Cur.WebApi\\wwwroot\\images\\slider\\template\\1\\slider.png",
+      "PackagePath": "staticwebassets\\images\\slider\\template\\1\\slider.png"
+    },
+    {
+      "Id": "D:\\GitHub\\Kunpo.Cur\\backend\\src\\Kunpo.Cur.WebApi\\wwwroot\\images\\slider\\template\\2\\hole.png",
+      "PackagePath": "staticwebassets\\images\\slider\\template\\2\\hole.png"
+    },
+    {
+      "Id": "D:\\GitHub\\Kunpo.Cur\\backend\\src\\Kunpo.Cur.WebApi\\wwwroot\\images\\slider\\template\\2\\slider.png",
+      "PackagePath": "staticwebassets\\images\\slider\\template\\2\\slider.png"
+    },
+    {
+      "Id": "D:\\GitHub\\Kunpo.Cur\\backend\\src\\Kunpo.Cur.WebApi\\wwwroot\\images\\slider\\template\\3\\hole.png",
+      "PackagePath": "staticwebassets\\images\\slider\\template\\3\\hole.png"
+    },
+    {
+      "Id": "D:\\GitHub\\Kunpo.Cur\\backend\\src\\Kunpo.Cur.WebApi\\wwwroot\\images\\slider\\template\\3\\slider.png",
+      "PackagePath": "staticwebassets\\images\\slider\\template\\3\\slider.png"
+    },
+    {
+      "Id": "D:\\GitHub\\Kunpo.Cur\\backend\\src\\Kunpo.Cur.WebApi\\wwwroot\\images\\slider\\template\\4\\hole.png",
+      "PackagePath": "staticwebassets\\images\\slider\\template\\4\\hole.png"
+    },
+    {
+      "Id": "D:\\GitHub\\Kunpo.Cur\\backend\\src\\Kunpo.Cur.WebApi\\wwwroot\\images\\slider\\template\\4\\slider.png",
+      "PackagePath": "staticwebassets\\images\\slider\\template\\4\\slider.png"
+    },
+    {
+      "Id": "D:\\GitHub\\Kunpo.Cur\\backend\\src\\Kunpo.Cur.WebApi\\wwwroot\\images\\slider\\template\\5\\hole.png",
+      "PackagePath": "staticwebassets\\images\\slider\\template\\5\\hole.png"
+    },
+    {
+      "Id": "D:\\GitHub\\Kunpo.Cur\\backend\\src\\Kunpo.Cur.WebApi\\wwwroot\\images\\slider\\template\\5\\slider.png",
+      "PackagePath": "staticwebassets\\images\\slider\\template\\5\\slider.png"
+    },
+    {
+      "Id": "D:\\GitHub\\Kunpo.Cur\\backend\\src\\Kunpo.Cur.WebApi\\wwwroot\\swagger-custom.css",
+      "PackagePath": "staticwebassets\\swagger-custom.css"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.Kunpo.Cur.WebApi.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.Kunpo.Cur.WebApi.props",
+      "PackagePath": "build\\Kunpo.Cur.WebApi.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.Kunpo.Cur.WebApi.props",
+      "PackagePath": "buildMultiTargeting\\Kunpo.Cur.WebApi.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.Kunpo.Cur.WebApi.props",
+      "PackagePath": "buildTransitive\\Kunpo.Cur.WebApi.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
